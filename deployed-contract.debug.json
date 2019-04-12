@@ -1,0 +1,257 @@
+{
+    "avm": {
+        "name": "deployed-contract",
+        "hash": "3265578ac35053d464856f32166d287f"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/sc_migration_test/deployed-contract.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 43,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 6
+        },
+        {
+            "start": 44,
+            "end": 54,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 8
+        },
+        {
+            "start": 55,
+            "end": 78,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 9
+        },
+        {
+            "start": 79,
+            "end": 110,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 10
+        },
+        {
+            "start": 111,
+            "end": 124,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 11
+        },
+        {
+            "start": 125,
+            "end": 155,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 12
+        },
+        {
+            "start": 156,
+            "end": 162,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 13
+        },
+        {
+            "start": 163,
+            "end": 176,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 15
+        },
+        {
+            "start": 177,
+            "end": 208,
+            "file": 1,
+            "method": "Main",
+            "line": 13,
+            "file_line_no": 16
+        },
+        {
+            "start": 209,
+            "end": 245,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 17
+        },
+        {
+            "start": 246,
+            "end": 258,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 18
+        },
+        {
+            "start": 259,
+            "end": 273,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 20
+        },
+        {
+            "start": 274,
+            "end": 304,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 21
+        },
+        {
+            "start": 305,
+            "end": 319,
+            "file": 1,
+            "method": "Main",
+            "line": 21,
+            "file_line_no": 24
+        },
+        {
+            "start": 320,
+            "end": 354,
+            "file": 1,
+            "method": "Main",
+            "line": 22,
+            "file_line_no": 25
+        },
+        {
+            "start": 355,
+            "end": 361,
+            "file": 1,
+            "method": "Main",
+            "line": 25,
+            "file_line_no": 28
+        },
+        {
+            "start": 362,
+            "end": 368,
+            "file": 1,
+            "method": "Main",
+            "line": 26,
+            "file_line_no": 29
+        },
+        {
+            "start": 369,
+            "end": 374,
+            "file": 1,
+            "method": "Main",
+            "line": 27,
+            "file_line_no": 30
+        },
+        {
+            "start": 375,
+            "end": 399,
+            "file": 1,
+            "method": "Main",
+            "line": 28,
+            "file_line_no": 31
+        },
+        {
+            "start": 400,
+            "end": 408,
+            "file": 1,
+            "method": "Main",
+            "line": 29,
+            "file_line_no": 32
+        },
+        {
+            "start": 409,
+            "end": 425,
+            "file": 1,
+            "method": "Main",
+            "line": 30,
+            "file_line_no": 33
+        },
+        {
+            "start": 426,
+            "end": 444,
+            "file": 1,
+            "method": "Main",
+            "line": 31,
+            "file_line_no": 34
+        },
+        {
+            "start": 445,
+            "end": 463,
+            "file": 1,
+            "method": "Main",
+            "line": 32,
+            "file_line_no": 35
+        },
+        {
+            "start": 464,
+            "end": 560,
+            "file": 1,
+            "method": "Main",
+            "line": 34,
+            "file_line_no": 37
+        },
+        {
+            "start": 561,
+            "end": 595,
+            "file": 1,
+            "method": "Main",
+            "line": 35,
+            "file_line_no": 38
+        },
+        {
+            "start": 596,
+            "end": 602,
+            "file": 1,
+            "method": "Main",
+            "line": 37,
+            "file_line_no": 40
+        },
+        {
+            "start": 603,
+            "end": 614,
+            "file": 1,
+            "method": "is_valid_addr",
+            "line": 41,
+            "file_line_no": 86
+        },
+        {
+            "start": 615,
+            "end": 624,
+            "file": 1,
+            "method": "is_valid_addr",
+            "line": 3,
+            "file_line_no": 48
+        },
+        {
+            "start": 625,
+            "end": 629,
+            "file": 1,
+            "method": "is_valid_addr",
+            "line": 4,
+            "file_line_no": 49
+        },
+        {
+            "start": 630,
+            "end": 633,
+            "file": 1,
+            "line": 5
+        }
+    ],
+    "breakpoints": []
+}
