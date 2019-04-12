@@ -103,9 +103,20 @@ Results [{'type': 'ByteArray', 'value': '01'}]
 Invoke TX GAS cost: 0.0
 Invoke TX fee: 0.0001
 ----------------------------
+
+neo> [I 190412 11:45:08 EventHub:62] [SmartContract.Execution.Success][7492] [060b418755cdd2bb594a8a58d6c4947e960a1cdb] [tx 52c53d0ad1c2054164a8e0ac85ac8c136bb16dc5d44d72dd104c872c94372001] {'type': 'Array', 'value': [{'type': 'Array', 'value': [{'type': 'ByteArray', 'value': b'2y\x06'}]}, {'type': 'ByteArray', 'value': b'balance'}]}
  
 # The migrated coontract however returns
 
+--------------------------
+Test invoke successful
+Total operations: 7
+Results [{'type': 'Array', 'value': [{'type': 'ByteArray', 'value': '327906'}]}, {'type': 'ByteArray', 'value': '62616c616e6365'}]
+Invoke TX GAS cost: 0.0
+Invoke TX fee: 0.0001
+--------------------------
+
+Enter your password to continue and deploy this contract
 
 ```
 
