@@ -1,7 +1,7 @@
 {
     "avm": {
         "name": "deployed-contract",
-        "hash": "3265578ac35053d464856f32166d287f"
+        "hash": "0947d191b6bee3142a8504d928695995"
     },
     "compiler": {
         "name": "neo-boa",
@@ -136,119 +136,119 @@
         },
         {
             "start": 355,
-            "end": 361,
+            "end": 362,
             "file": 1,
             "method": "Main",
             "line": 25,
             "file_line_no": 28
         },
         {
-            "start": 362,
-            "end": 368,
+            "start": 363,
+            "end": 369,
             "file": 1,
             "method": "Main",
             "line": 26,
             "file_line_no": 29
         },
         {
-            "start": 369,
-            "end": 374,
+            "start": 370,
+            "end": 375,
             "file": 1,
             "method": "Main",
             "line": 27,
             "file_line_no": 30
         },
         {
-            "start": 375,
-            "end": 399,
+            "start": 376,
+            "end": 400,
             "file": 1,
             "method": "Main",
             "line": 28,
             "file_line_no": 31
         },
         {
-            "start": 400,
-            "end": 408,
+            "start": 401,
+            "end": 409,
             "file": 1,
             "method": "Main",
             "line": 29,
             "file_line_no": 32
         },
         {
-            "start": 409,
-            "end": 425,
+            "start": 410,
+            "end": 426,
             "file": 1,
             "method": "Main",
             "line": 30,
             "file_line_no": 33
         },
         {
-            "start": 426,
-            "end": 444,
+            "start": 427,
+            "end": 445,
             "file": 1,
             "method": "Main",
             "line": 31,
             "file_line_no": 34
         },
         {
-            "start": 445,
-            "end": 463,
+            "start": 446,
+            "end": 464,
             "file": 1,
             "method": "Main",
             "line": 32,
             "file_line_no": 35
         },
         {
-            "start": 464,
-            "end": 560,
+            "start": 465,
+            "end": 561,
             "file": 1,
             "method": "Main",
             "line": 34,
             "file_line_no": 37
         },
         {
-            "start": 561,
-            "end": 595,
+            "start": 562,
+            "end": 596,
             "file": 1,
             "method": "Main",
             "line": 35,
             "file_line_no": 38
         },
         {
-            "start": 596,
-            "end": 602,
+            "start": 597,
+            "end": 603,
             "file": 1,
             "method": "Main",
             "line": 37,
             "file_line_no": 40
         },
         {
-            "start": 603,
-            "end": 614,
+            "start": 604,
+            "end": 615,
             "file": 1,
             "method": "is_valid_addr",
             "line": 41,
             "file_line_no": 86
         },
         {
-            "start": 615,
-            "end": 624,
+            "start": 616,
+            "end": 625,
             "file": 1,
             "method": "is_valid_addr",
             "line": 3,
             "file_line_no": 48
         },
         {
-            "start": 625,
-            "end": 629,
+            "start": 626,
+            "end": 630,
             "file": 1,
             "method": "is_valid_addr",
             "line": 4,
             "file_line_no": 49
         },
         {
-            "start": 630,
-            "end": 633,
+            "start": 631,
+            "end": 634,
             "file": 1,
             "line": 5
         }

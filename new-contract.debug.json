@@ -1,7 +1,7 @@
 {
     "avm": {
         "name": "new-contract",
-        "hash": "2571ab00473effe82c9ca030a59d5d78"
+        "hash": "7fe67aeb8fd99e1ed5674f50d8107c20"
     },
     "compiler": {
         "name": "neo-boa",
@@ -136,95 +136,95 @@
         },
         {
             "start": 361,
-            "end": 367,
+            "end": 368,
             "file": 1,
             "method": "Main",
             "line": 25,
             "file_line_no": 28
         },
         {
-            "start": 368,
-            "end": 374,
+            "start": 369,
+            "end": 375,
             "file": 1,
             "method": "Main",
             "line": 26,
             "file_line_no": 29
         },
         {
-            "start": 375,
-            "end": 380,
+            "start": 376,
+            "end": 381,
             "file": 1,
             "method": "Main",
             "line": 27,
             "file_line_no": 30
         },
         {
-            "start": 381,
-            "end": 405,
+            "start": 382,
+            "end": 406,
             "file": 1,
             "method": "Main",
             "line": 28,
             "file_line_no": 31
         },
         {
-            "start": 406,
-            "end": 414,
+            "start": 407,
+            "end": 415,
             "file": 1,
             "method": "Main",
             "line": 29,
             "file_line_no": 32
         },
         {
-            "start": 415,
-            "end": 431,
+            "start": 416,
+            "end": 432,
             "file": 1,
             "method": "Main",
             "line": 30,
             "file_line_no": 33
         },
         {
-            "start": 432,
-            "end": 450,
+            "start": 433,
+            "end": 451,
             "file": 1,
             "method": "Main",
             "line": 31,
             "file_line_no": 34
         },
         {
-            "start": 451,
-            "end": 469,
+            "start": 452,
+            "end": 470,
             "file": 1,
             "method": "Main",
             "line": 32,
             "file_line_no": 35
         },
         {
-            "start": 470,
-            "end": 566,
+            "start": 471,
+            "end": 567,
             "file": 1,
             "method": "Main",
             "line": 34,
             "file_line_no": 37
         },
         {
-            "start": 567,
-            "end": 601,
+            "start": 568,
+            "end": 602,
             "file": 1,
             "method": "Main",
             "line": 35,
             "file_line_no": 38
         },
         {
-            "start": 602,
-            "end": 608,
+            "start": 603,
+            "end": 609,
             "file": 1,
             "method": "Main",
             "line": 37,
             "file_line_no": 40
         },
         {
-            "start": 609,
-            "end": 612,
+            "start": 610,
+            "end": 613,
             "file": 1,
             "line": 39
         }

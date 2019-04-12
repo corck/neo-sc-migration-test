@@ -25,7 +25,7 @@ def Main(operation, args):
         print("Migrate operation start") 
         
         # taken out of neo boa test example
-        param_list = bytearray(b'\x07')
+        param_list = bytearray(b'\x07\x10')
         return_type = bytearray(b'\x05')
         properties = 1
         name = 'migrated contract 3'
