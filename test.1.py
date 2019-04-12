@@ -24,6 +24,7 @@ def Main(operation, args):
     elif operation == 'migrate':    
         print("Migrate operation start") 
         
+        # taken out of neo boa test example
         param_list = bytearray(b'\x07')
         return_type = bytearray(b'\x05')
         properties = 1
